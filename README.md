@@ -139,22 +139,6 @@ I'm always learning, experimenting with new technologies, and improving my engin
 
 ---
 
-## 📚 Learning & Improving
-
-I'm continuously improving my skills in:
-
-* System Design
-* Backend Architecture
-* API Design
-* Distributed Systems
-* Cloud Computing
-* DevOps
-* Database Optimization
-* Application Security
-* Artificial Intelligence
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
