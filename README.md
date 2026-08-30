@@ -89,7 +89,7 @@ I'm always learning, experimenting with new technologies, and improving my engin
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -122,30 +122,6 @@ I'm always learning, experimenting with new technologies, and improving my engin
 </table>
 
 ---
-
-## 📚 Learning & Improving
-
-I'm continuously improving my skills in:
-
-* System Design
-* Backend Architecture
-* API Design
-* Distributed Systems
-* Cloud Computing
-* DevOps
-* Database Optimization
-* Application Security
-* Artificial Intelligence
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-[![Falcon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cryptonix8\&hide_border=true)](https://github.com/Cryptonix8)
-
-</div>
 
 ---
 
