@@ -1,4 +1,4 @@
-## Hi there, I am falcon. Software Developer | Backend Developer | Full-Stack Engineer
+## Hi there👍, I am falcon. Software Developer | Backend Developer | Full-Stack Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cryptonix8-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Cryptonix8)
 
@@ -23,7 +23,7 @@
   </picture>
 </div>
 
-<div align="center">
+<div align="left">
 
 ---
 
@@ -38,6 +38,8 @@ I enjoy working on backend systems, APIs, web applications, automation, and deve
 I'm always learning, experimenting with new technologies, and improving my engineering skills through real-world projects.
 
 ---
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -150,7 +152,7 @@ I'm always learning, experimenting with new technologies, and improving my engin
 </div>
 ---
 
-<table style="width:100%">
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
