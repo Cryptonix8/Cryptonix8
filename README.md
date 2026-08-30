@@ -13,10 +13,6 @@
   </picture>
 </div>
 
-<a href="https://github.com/Cryptonix8">
-  <img src="./assets/github-header.svg" width="100%" alt="Falcon - Cryptonix8"/>
-</a>
-
 <div align="center">
 
 # 🦅 Falcon
@@ -87,11 +83,59 @@ I'm always learning, experimenting with new technologies, and improving my engin
 
 <div align="center">
 
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cryptonix8&hide_border=true" width="70%" alt="Falcon's GitHub Streak"/>
 
 </div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🎯 Current Focus
+
+* 🚀 Building scalable backend services & APIs
+* 💻 Developing modern web applications
+* 🏗️ Improving software architecture & code quality
+* ☁️ Exploring cloud technologies & DevOps
+* 🤖 Exploring AI-powered applications
+* 🔐 Learning security & best practices
+* 🌎 Contributing to open-source projects
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 What I Like Building
+
+* ⚙️ Backend Systems & APIs
+* 🌐 Web Applications
+* 🤖 AI & Automation
+* 🗄️ Database-driven Applications
+* 🔐 Secure Software
+* ☁️ Cloud & DevOps
+* 🛠️ Developer Tools
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Learning & Improving
+
+I'm continuously improving my skills in:
+
+* System Design
+* Backend Architecture
+* API Design
+* Distributed Systems
+* Cloud Computing
+* DevOps
+* Database Optimization
+* Application Security
+* Artificial Intelligence
 
 ---
 
@@ -99,37 +143,9 @@ I'm always learning, experimenting with new technologies, and improving my engin
 
 <div align="center">
 
+[![Falcon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cryptonix8\&hide_border=true)](https://github.com/Cryptonix8)
+
 </div>
-
----
-
-## 🎯 Current Focus
-
-* 🚀 Building scalable backend services and APIs
-* 💻 Developing modern web applications
-* 🏗️ Improving software architecture and code quality
-* ☁️ Exploring cloud technologies and DevOps
-* 🤖 Exploring AI-powered applications
-* 🔐 Learning security and best practices
-* 🌎 Contributing to open-source projects
-
----
-
-## 🧠 What I Like Building
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   ⚙️  Backend Systems & APIs                       │
-│   🌐  Web Applications                              │
-│   🤖  AI & Automation                               │
-│   🗄️  Database-driven Applications                 │
-│   🔐  Secure Software                               │
-│   ☁️  Cloud & DevOps                                │
-│   🛠️  Developer Tools                               │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
 
 ---
 
