@@ -46,47 +46,112 @@ I'm always learning, experimenting with new technologies, and improving my engin
 ## 🛠️ Tech Stack
 
 <div align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="60" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="60" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="Three.js">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React Native">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis">
 
-### Languages
+  <!-- Frameworks / Libraries -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="MaterialUI">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="Netlify">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bots" height="60" alt="bots">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+  <!-- Cloud / DevOps -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="60" alt="svelte Actions">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
 
-### Backend
+  <!-- Databases -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="Supabase">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
+  <!-- Tools -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webflow" height="60" alt="webflow logo"  />
+  <img width="12" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cryptonix8&hide_border=true" width="70%" alt="Falcon's GitHub Streak"/>
-
-</div>
-
 ---
 
 <table style="width:100%">
