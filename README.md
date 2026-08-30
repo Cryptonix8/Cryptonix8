@@ -1,15 +1,5 @@
 ## Hi there👍, I am falcon. Software Developer | Backend Developer | Full-Stack Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-Cryptonix8-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Cryptonix8)
-
-<br/>
-
-![GitHub followers](https://img.shields.io/github/followers/Cryptonix8?style=flat-square\&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/Cryptonix8?style=flat-square\&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=Cryptonix8\&label=Profile%20Views\&color=blue\&style=flat-square)
-
-</div>
-
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://count.getloli.com/@debug?name=debug&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
       <img src="https://count.getloli.com/@debug?name=debug&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" data-canonical-src="https://count.getloli.com/@debug?name=debug&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="max-width: 100%;"></a>
