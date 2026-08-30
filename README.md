@@ -87,10 +87,6 @@ I'm always learning, experimenting with new technologies, and improving my engin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cryptonix8&show_icons=true&count_private=true&hide_border=true&rank_icon=github" width="48%" alt="Falcon's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryptonix8&layout=compact&hide_border=true" width="48%" alt="Falcon's Top Languages"/>
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cryptonix8&hide_border=true" width="70%" alt="Falcon's GitHub Streak"/>
