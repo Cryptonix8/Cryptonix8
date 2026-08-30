@@ -101,12 +101,6 @@ I'm always learning, experimenting with new technologies, and improving my engin
 
 ## 📈 GitHub Activity
 
-<div align="center">
-
-[![Falcon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cryptonix8\&hide_border=true)](https://github.com/Cryptonix8)
-
-</div>
-
 ---
 
 ## 🎯 Current Focus
