@@ -89,7 +89,7 @@ I'm always learning, experimenting with new technologies, and improving my engin
 
 ---
 
-<table width="100%">
+<table style="width:100%">
 <tr>
 <td width="50%" valign="top">
 
