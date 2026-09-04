@@ -1,4 +1,4 @@
-## Hi there👍, I am falcon. Software Developer | Backend Developer | Full-Stack Engineer
+## Hi there👍, I am Software Developer | Backend Developer | Full-Stack Engineer
 
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://count.getloli.com/@debug?name=debug&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
@@ -18,8 +18,6 @@
 ---
 
 ## `$ whoami`
-
-Hi, I'm **Falcon** 👋
 
 I'm a software developer passionate about building reliable, scalable, and practical software.
 
